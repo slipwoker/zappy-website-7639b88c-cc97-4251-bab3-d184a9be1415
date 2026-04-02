@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מגה תיקון מתמחה בתיקון מוצרי חשמל ביתיים עם טכנאים מוסמכים שמגיעים אליך הביתה. מקרר, מכונת כביסה ועוד — תיקון מקצועי במחיר הוגן. התקשר עכשיו!
+
+### שירותים
+https://example.com/services
+שירותי תיקון מכשירי חשמל ביתיים מקיפים: מקררים, מכונות כביסה, מדיחים ועוד. טכנאים מוסמכים עם ניסיון עשיר, מגיעים עד אליך. גלה את כל השירותים שלנו!
+
+### אודות
+https://example.com/about
+מגה תיקון נוסדה מתוך אמונה שתיקון מוצרי חשמל ביתיים צריך להיות מהיר, אמין ושקוף במחיר. הכר את הצוות המקצועי שלנו ולמה אלפי לקוחות בוחרים בנו שוב ושוב.
+
+### צור קשר
+https://example.com/contact
+צריך תיקון מכונת כביסה דחוף או תיקון מקרר בבית הלקוח? צור קשר עם מגה תיקון עכשיו — נזמין טכנאי מוסמך אליך בהקדם האפשרי. אל תחכה, התקשר היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
